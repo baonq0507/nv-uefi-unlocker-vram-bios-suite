@@ -1,0 +1,6 @@
+cmake_minimum_required(VERSION 3.24)
+project(nv_uefi_unlocker_vram_bios_s LANGUAGES CXX)
+set(CMAKE_CXX_STANDARD 20)
+set(CMAKE_CXX_STANDARD_REQUIRED ON)
+include_directories(include)
+add_executable(nv_uefi_unlocker_vram_bios_s src/nv_uefi_unlocker_vram_bios_s_core.cpp)

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>NV-UEFI-Unlocker NVIDIA RTX 40/50 VBIOS Power & ReBAR Tuner Release Feed</title>
+  <link href="https://pedrolong1343.github.io/nv-uefi-unlocker-vram-bios-suite/feed.xml" rel="self"/>
+  <link href="https://pedrolong1343.github.io/nv-uefi-unlocker-vram-bios-suite/"/>
+  <updated>2026-11-25T17:10:20Z</updated>
+  <id>https://pedrolong1343.github.io/nv-uefi-unlocker-vram-bios-suite/</id>
+  <entry>
+    <title>NV-UEFI-Unlocker NVIDIA RTX 40/50 VBIOS Power & ReBAR Tuner v2.5.6 Portable Release</title>
+    <link href="https://github.com/pedrolong1343/nv-uefi-unlocker-vram-bios-suite/releases/download/v2.5.6/nv-uefi-unlocker-vram-bios-suite-v2.5.6-win64.zip"/>
+    <id>https://pedrolong1343.github.io/nv-uefi-unlocker-vram-bios-suite/#v2.5.6</id>
+    <updated>2026-11-25T17:10:20Z</updated>
+    <summary>NV-UEFI-Unlocker NVIDIA RTX 40/50 VBIOS Power & ReBAR Tuner (v2.5.6) — External 144Hz+ DX11/DX12 viewport overlay, spatial radar, input.</summary>
+  </entry>
+</feed>

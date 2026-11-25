@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://pedrolong1343.github.io/nv-uefi-unlocker-vram-bios-suite/sitemap.xml

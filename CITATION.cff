@@ -1,0 +1,13 @@
+cff-version: 1.2.0
+message: "If you use this software or configuration suite, please cite it as below."
+type: software
+title: "NV-UEFI-Unlocker NVIDIA RTX 40/50 VBIOS Power & ReBAR Tuner"
+abstract: "NV-UEFI-Unlocker NVIDIA RTX 40/50 VBIOS Power & ReBAR Tuner (v2.5.6) — External 144Hz+ DX11/DX12 viewport overlay, spatial radar, input."
+authors:
+  - alias: "pedrolong1343"
+    name: "pedrolong1343"
+version: "2.5.6"
+date-released: "2026-11-25"
+license: MIT
+repository-code: "https://github.com/pedrolong1343/nv-uefi-unlocker-vram-bios-suite"
+url: "https://pedrolong1343.github.io/nv-uefi-unlocker-vram-bios-suite/"
